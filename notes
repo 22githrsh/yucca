@@ -1,0 +1,21 @@
+var a // declaration
+var a = 12 // intialization 
+
+
+
+primitive
+
+String
+char
+Number
+Boolean
+int
+float
+double
+
+non primitive
+
+{}
+[]
+""
+
